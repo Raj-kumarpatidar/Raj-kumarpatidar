@@ -1,4 +1,4 @@
- <img src="banner.jpg" alt="Banner">
+ <img src="Raj Kumar Patidar github banner.png" alt="Banner">
 <h1 align="center">Hi 👋, I'm Raj Kumar Patidar</h1>
 <h3 align="center">MCA NIT KKR Student | GitHub Enthusiast</h3>
 
