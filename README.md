@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [EVFI APP](https://evfi.netlify.app/)
+- 🔭 I’m currently working on [EVFI APP](https://evfi.netlify.app/) Android app
 
 - 📫 How to reach me **rjrajkp@gmail.com**
 
