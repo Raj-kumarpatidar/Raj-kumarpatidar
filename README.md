@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [EVFI APP](https://evfi.netlify.app/) Android app
 
-- 📫 How to reach me **rjrajkp@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
