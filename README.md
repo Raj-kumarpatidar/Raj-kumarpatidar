@@ -1,6 +1,6 @@
  <img src="Raj Kumar Patidar github banner.png" alt="Banner">
 <h1 align="center">Hi, I'm Raj Kumar Patidar</h1>
-<h3 align="center">MCA NIT KKR Student   |   GitHub Enthusiast  | Ready for open source contribution</h3>
+<h3 align="center">MCA NIT KKR Student   |   GitHub Enthusiast  | open source contribution</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kumarpatidar&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kumarpatidar" /> </p>
 
